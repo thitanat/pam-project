@@ -1,0 +1,12 @@
+# Accuracy scores for the PAM project models
+
+# CNN Model Accuracy
+CNN_Accuracy = 0.85  # Replace with actual accuracy score after training
+
+# Pretrained Model Accuracy
+Pretrained_Model_Accuracy = 0.90  # Replace with actual accuracy score after fine-tuning
+
+# Summary of Results
+print("Model Accuracy Scores:")
+print(f"CNN Model Accuracy: {CNN_Accuracy}")
+print(f"Pretrained Model Accuracy: {Pretrained_Model_Accuracy}")

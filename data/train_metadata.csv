@@ -1,0 +1,13 @@
+filename: /pam-project/pam-project/data/train_metadata.csv
+
+species,filename
+species_1,audio_file_1.wav
+species_2,audio_file_2.wav
+species_3,audio_file_3.wav
+species_4,audio_file_4.wav
+species_5,audio_file_5.wav
+species_6,audio_file_6.wav
+species_7,audio_file_7.wav
+species_8,audio_file_8.wav
+species_9,audio_file_9.wav
+species_10,audio_file_10.wav
